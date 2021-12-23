@@ -1,0 +1,9 @@
+# Ignore all files by default, but scan all directories.
+*
+!*/
+
+!.gitattributes
+!.gitignore
+!README.md
+
+!*.py
